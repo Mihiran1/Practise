@@ -1,1 +1,3 @@
 const data = ["Mihiran","Sajini","Gagana"];
+
+const name = "Amal Perera"
