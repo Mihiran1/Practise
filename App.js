@@ -1,0 +1,1 @@
+const data = ["Mihiran","Sajini","Gagana"];
