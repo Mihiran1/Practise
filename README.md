@@ -9,6 +9,7 @@ This course provided a solid foundation in Python programming. It covered core c
 - Variables, data types, and control flow
 - Functions and error handling
 - File handling
+- problem solving
 - Introduction to object-oriented programming (OOP)
 
 ## 🚀 Skills Gained
