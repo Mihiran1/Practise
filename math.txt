@@ -1,0 +1,267 @@
+This image explains how to do hypothesis testing for a population mean (μ) when:
+
+The population is normally distributed
+
+The population variance (σ²) is known
+
+Let’s break it down step by step so even a beginner can understand:
+
+🔍 What is Hypothesis Testing?
+Hypothesis testing helps us decide whether a claim (about a population mean, for example) is likely true or not based on sample data.
+
+We test:
+
+A null hypothesis (H₀): usually a statement of no change or no effect
+
+An alternative hypothesis (H₁ or Hₐ): what you want to prove
+
+📌 This Case (Case 01):
+You're testing the population mean (μ), and the variance (σ²) is known.
+
+We use the Z-test in this case.
+
+🧪 The Test Statistic:
+The Z value is calculated using:
+
+𝑍
+=
+𝑥
+ˉ
+−
+𝜇
+0
+(
+𝜎
+𝑛
+)
+Z= 
+( 
+n
+​
+ 
+σ
+​
+ )
+x
+ˉ
+ −μ 
+0
+​
+ 
+​
+ 
+Where:
+
+𝑥
+ˉ
+x
+ˉ
+  = sample mean
+
+𝜇
+0
+μ 
+0
+​
+  = value of mean under the null hypothesis
+
+𝜎
+σ = population standard deviation (known)
+
+𝑛
+n = sample size
+
+📊 Types of Alternative Hypotheses & Critical Regions
+Alternative Hypothesis	When to Use It	Critical Region (Reject H₀ if...)
+μ ≠ μ₀ (two-tailed)	Testing if mean is different	(
+μ > μ₀ (right-tailed)	Testing if mean is greater	
+𝑍
+>
+𝑍
+𝛼
+Z>Z 
+α
+​
+ 
+μ < μ₀ (left-tailed)	Testing if mean is less	
+𝑍
+<
+−
+𝑍
+𝛼
+Z<−Z 
+α
+​
+ 
+
+Zₐ or Zₐ/₂ are values from the Z-table depending on your significance level (α) (e.g., 0.05).
+
+✅ Example to Help You Understand:
+Let’s say you want to test if the average height of students is not 170 cm.
+
+H₀: μ = 170
+
+Hₐ: μ ≠ 170 (two-tailed test)
+
+You collect a sample, calculate 
+𝑥
+ˉ
+x
+ˉ
+ , know 
+𝜎
+σ, and n.
+
+You plug values into the Z formula and:
+
+Compare the result to the critical value from the Z-table (e.g., 1.96 for α = 0.05)
+
+If 
+∣
+𝑍
+∣
+>
+1.96
+∣Z∣>1.96, you reject H₀ and say the mean is not 170 cm
+
+Would you like me to walk you through a full numeric example?
+
+
+
+
+
+
+
+
+You said:
+so what about right or left tail
+ChatGPT said:
+Great question! Let's go over right-tailed and left-tailed hypothesis tests in a simple and beginner-friendly way.
+
+🎯 What are Tail Tests?
+When doing hypothesis testing, the "tail" tells us where we are looking for extreme values (evidence against the null hypothesis).
+
+🟥 Right-Tailed Test
+✅ Use it when:
+You want to test if the population mean is greater than a certain value.
+
+🧪 Hypotheses:
+H₀: μ = μ₀
+
+H₁: μ > μ₀
+
+🎯 Critical Region:
+Z > Zα
+
+If your calculated Z value is greater than the critical Z from the Z-table, then you reject H₀.
+
+📊 Example:
+You're testing if a new machine produces more items than the old average of 50.
+
+H₀: μ = 50
+
+H₁: μ > 50 → right-tailed
+
+🟦 Left-Tailed Test
+✅ Use it when:
+You want to test if the population mean is less than a certain value.
+
+🧪 Hypotheses:
+H₀: μ = μ₀
+
+H₁: μ < μ₀
+
+🎯 Critical Region:
+Z < -Zα
+
+If your calculated Z value is less than the negative critical Z value, then you reject H₀.
+
+📊 Example:
+You're testing if a new diet reduces average weight from 70 kg.
+
+H₀: μ = 70
+
+H₁: μ < 70 → left-tailed
+
+🟨 Two-Tailed vs One-Tailed Summary:
+Test Type	Alternative Hypothesis	Critical Region
+Two-Tailed	μ ≠ μ₀	(
+Right-Tailed	μ > μ₀	
+𝑍
+>
+𝑍
+𝛼
+Z>Z 
+α
+​
+ 
+Left-Tailed	μ < μ₀	
+𝑍
+<
+−
+𝑍
+𝛼
+Z<−Z 
+α
+​
+ 
+
+Would you like me to show you how to calculate Z and test using numbers in a right- or left-tailed test?
+
+You said:
+z(alpha) and z(alpha/2) is same for a confidence level when considering 2 tail and one tail
+ChatGPT said:
+Great question! Let's clear up the confusion around Z(α) and Z(α/2) and how they relate to one-tailed and two-tailed tests.
+
+✅ The short answer:
+No, Z(α) and Z(α/2) are not the same for the same confidence level.
+
+They represent different cutoff points depending on whether you're doing a one-tailed or two-tailed test.
+
+🎯 Why the difference?
+Let’s suppose your confidence level is 95% → that means α = 0.05 (5% significance level).
+
+🟩 One-Tailed Test:
+The entire 5% rejection region is in one tail (either left or right).
+
+So you look up Z(0.05) → the Z value that leaves 5% in one tail.
+
+✅ Z(0.05) ≈ 1.645
+
+🟦 Two-Tailed Test:
+The 5% rejection area is split into two tails → 2.5% in each tail.
+
+So you look up Z(0.025) → this gives you the Z value that leaves 2.5% in each tail.
+
+✅ Z(0.025) ≈ 1.96
+
+📊 Quick Comparison Table:
+Confidence Level	α	One-Tailed Z(α)	Two-Tailed Z(α/2)
+90%	0.10	1.28	1.645
+95%	0.05	1.645	1.96
+99%	0.01	2.33	2.576
+
+🧠 Summary:
+Use Z(α) for one-tailed tests.
+
+Use Z(α/2) for two-tailed tests.
+
+They are different because in two-tailed tests, the significance level is split between both ends.
+
+Let me know if you'd like a visual diagram or an example with numbers to make it even clearer!
+
+
+
+
+
+Search
+
+Reason
+
+Deep research
+
+Create image
+
+
+
+
