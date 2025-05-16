@@ -30,7 +30,7 @@ Through hands-on exercises and practical examples, I gained the ability to:
 
 ![Course Certificate](certificate.png)
 
-## 🔗 Course Provider
+## 🔗 Course Provider - universituy of Moratuwa
 
 [University of Moratuwa - Learn Programming](https://www.mrt.ac.lk/)
 
