@@ -19,7 +19,7 @@ Through hands-on exercises and practical examples, I gained the ability to:
 - Write basic Python programs
 - Automate simple tasks with scripts
 - Understand foundational programming logic
-- Build a base for future development in areas like data science, web development, and automation
+- Build a base for future development in areas like data science, web development
 
 ## 📁 Project Content
 
