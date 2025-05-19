@@ -46,5 +46,4 @@ Through hands-on exercises and practical examples, I gained the ability to:
 
 ### 📌 Thank you for checking out my progress!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or check out more of my work on GitHub.
 
