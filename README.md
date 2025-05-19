@@ -30,11 +30,6 @@ Through hands-on exercises and practical examples, I gained the ability to:
 - `python_course_summary.html` - Summary of what I learned in HTML format
 - (Add any practice scripts or exercises if available)
 
-## 📜 Certificate
-
-
-## 🔗 Course Provider - universituy of Moratuwa
-
 ## 🧠 Next Steps
 
 - Explore Python libraries like `pandas`, `matplotlib`, and `flask`
