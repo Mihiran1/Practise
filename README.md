@@ -32,7 +32,6 @@ Through hands-on exercises and practical examples, I gained the ability to:
 
 ## 📜 Certificate
 
-![Course Certificate](certificate.png)
 
 ## 🔗 Course Provider - universituy of Moratuwa
 
