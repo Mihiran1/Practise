@@ -244,11 +244,6 @@ Confidence Level	α	One-Tailed Z(α)	Two-Tailed Z(α/2)
 🧠 Summary:
 Use Z(α) for one-tailed tests.
 
-Use Z(α/2) for two-tailed tests.
-
-They are different because in two-tailed tests, the significance level is split between both ends.
-
-Let me know if you'd like a visual diagram or an example with numbers to make it even clearer!
 
 
 
