@@ -35,8 +35,6 @@ Through hands-on exercises and practical examples, I gained the ability to:
 
 ## 🔗 Course Provider - universituy of Moratuwa
 
-[University of Moratuwa - Learn Programming](https://www.mrt.ac.lk/)
-
 ## 🧠 Next Steps
 
 - Explore Python libraries like `pandas`, `matplotlib`, and `flask`
