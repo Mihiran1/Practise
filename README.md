@@ -13,7 +13,6 @@ This course provided a solid foundation in Python programming. It covered core c
 - problem solving
 - Introduction to object-oriented programming (OOP)
 - bug fixing
-- error handling
 - java based componenets
 
 ## 🚀 Skills Gained
