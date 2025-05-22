@@ -36,8 +36,6 @@ Through hands-on exercises and practical examples, I gained the ability to:
 - Start small projects to apply what I've learned
 - Deepen my knowledge in backend development and data analysis
 
----
-
 ### 📌 Thank you for checking out my progress!
 ---End----
 
