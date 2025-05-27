@@ -1,1 +1,2 @@
 here is the config file
+here is the second line
