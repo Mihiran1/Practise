@@ -18,7 +18,7 @@ This course provided a solid foundation in Python programming. It covered core c
 
 Through hands-on exercises and practical examples, I gained the ability to:
 
-- Write basic Python programs
+
 - Automate simple tasks with scripts
 - Understand foundational programming logic
 - Build a base for future development in areas like data science, web development
