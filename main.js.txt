@@ -4,5 +4,5 @@ const name = "Amal Perera"
 
 const (name,setname ) = useState(mihiran);
 
-this is a sample
+
 
