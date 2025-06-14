@@ -2,7 +2,7 @@ const data = ["Mihiran","Sajini","Gagana"];
 
 const name = "Amal Perera"
 
-const (name,setname ) = useState(mihir
+const (name,setname ) = useState(mih
 
 
 
