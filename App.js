@@ -1,6 +1,6 @@
 const data = ["Mihiran","Sajini","Gagana"];
 
-let name = "Amila";
+let name = "nimal";
 
 const func = () = >({
 	console.log("This is func function");
