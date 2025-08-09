@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 HEW ARE CONFIG
+=======
+here is the config file
+here is the second line
+>>>>>>> c3dab498e4585f3f3605ef958a8e99757232f42b
