@@ -244,7 +244,7 @@ Confidence Level	α	One-Tailed Z(α)	Two-Tailed Z(α/2)
 🧠 Summary:
 Use Z(α) for one-tailed tests.
 
-
+chage
 
 
 
