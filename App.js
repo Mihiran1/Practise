@@ -1,4 +1,4 @@
-dconst data = ["Mihiran","Sajini","Gagana","Malith","Midlith"];
+ddconst data = ["Mihiran","Sajini","Gagana","Malith","Midlith"];
 
 let name = "Malith";
 
