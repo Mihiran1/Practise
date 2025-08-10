@@ -1,4 +1,4 @@
-const data = ["Mihiran","Sajini","Gagana","Malith","Malith"];
+const data = ["Mihiran","Sajini","Gagana","Malith","Mlith"];
 
 let name = "Malith";
 
